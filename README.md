@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @lironfarzam
+- 👀 I’m interested in encryption
+- 🌱 I’m currently learning C/C++
