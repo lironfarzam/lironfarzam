@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lironfarzam 😎
+👋 Hi, I’m @lironfarzam 😎
 
 🎓 As a Master of Science student in the Department of Computer Science, I am always striving for academic excellence and pushing the boundaries of my knowledge. 💪
 
