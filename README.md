@@ -11,5 +11,4 @@ At the same time, I am also captivated by the world of Information Security. Pro
 
 🚀 Feel free to reach out to me at lfarzam95@gmail.com 📧
 
-
-
+![Artificial_Intelligenc](https://github.com/lironfarzam/lironfarzam/assets/87701576/971473ab-96be-43f2-aec9-5f29603e67aa)
