@@ -37,10 +37,18 @@ At the same time, I am also captivated by the world of Information Security. Pro
 </p>
 
 ##
+<p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lironfarzam&show_icons=true&locale=en&layout=compact" alt="Liron" />
 
 ##
+
+
+### LeetCode Progress 
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue?style=flat&logo=leetcode)](https://leetcode.com/lironfarzam/)
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=lironfarzam&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+</p>
 
 
 🚀 Feel free to reach out to me at lfarzam95@gmail.com 📧
