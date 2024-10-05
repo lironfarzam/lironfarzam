@@ -2,6 +2,7 @@
 
 👋 Hi, I’m @lironfarzam 😎
 
+
 🎓 As a Master of Science student in the Department of Computer Science, I am always striving for academic excellence and pushing the boundaries of my knowledge. 💪
 
 🤔 My curious and adventurous nature leads me to explore the depths of code and new technologies, always seeking new challenges to expand my skills. 💻
